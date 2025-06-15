@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**Ejercicio 6: Número mayor
+/**Ejercicio 4: Número mayor
 Descripción: Escribe un programa en C que lea tres 
 números del usuario y determine cuál es el mayor.*/
 
